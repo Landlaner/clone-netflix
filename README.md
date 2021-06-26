@@ -1,0 +1,2 @@
+# CLONE TELA NETFLIX
+#### Clone da tela da Netflix, porém customizado como central de alguns jogos recentes que eu guardo em meu coração. Atividade proveniente do curso de Web Developer da Digital Innovation One, módulo do professor Felipe Aguiar. Professor, sua didática é maravilhosa!
